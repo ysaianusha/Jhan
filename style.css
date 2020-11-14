@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    display: flex;
+    text-align: center; 
+    align-items: center;
+    justify-content: center;
+    height: 10vh;
+    font-size: 50px;
+    font-weight: 900;
+    font-family: 'Special Elite', cursive;
+    color: black;
+  padding: 10px;
+}
+body{
+    background-image: url(https://media2.giphy.com/media/3ohhwizZX7EZZ7tAOI/200w.webp?cid=ecf05e47d3i26l6w61d4tb3h9375bosq36cuo5mpqtl0m582&rid=200w.webp);
+    background-position: center;
+    
+}
+p{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+    font-size: 30px;
+    font-weight: 900;
+    font-family: 'Great Vibes', cursive;
+}
+.part{
+    text-shadow: 6px 6px 3px #00000093;
+}
+#hp{
+    float: left;
+    margin: 10px 15px 0 0 ;
+    border-radius: 50%;
+    border: 5px solid #00000093;
+}
+#pp{
+    float: right;
+    margin: 10px 15px 0 0 ;
+    border: 5px solid #00000093;
+}
+#st{
+    padding: 5px;
+    margin: 0 0 0 15px;
+}
+#para{
+  text-align: center;
+  font-height: 50vw;
+}
